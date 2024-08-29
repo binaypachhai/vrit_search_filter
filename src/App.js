@@ -3,7 +3,7 @@ import SearchPage from './components/SearchPage'
 
 const App = () => {
   return (
-    <divg>
+    <div>
       <SearchPage />
     </div>
   )
